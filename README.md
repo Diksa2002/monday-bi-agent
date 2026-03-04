@@ -35,7 +35,32 @@ Users can ask questions such as:
 - How many work orders exist?
 
 ---
+---
 
+# 📸 Dashboard Preview
+
+### Example Query
+
+Example of the AI agent answering a business question:
+
+<img width="1330" height="737" alt="image" src="https://github.com/user-attachments/assets/21143a0c-ff9c-4d39-8fed-2dd999552f7a" />
+
+
+### Pipeline Analysis Chart
+
+Visualization of pipeline value across sectors:
+
+<img width="1345" height="575" alt="image" src="https://github.com/user-attachments/assets/e1678b2e-7ab6-43a5-938e-bf2842a59bbb" />
+
+
+### Business Insights Dashboard
+
+The dashboard displays key metrics including pipeline value, open deals, high probability deals, and sector performance.
+
+<img width="1653" height="876" alt="image" src="https://github.com/user-attachments/assets/d092c287-d9a2-4d13-816f-a05900275da9" />
+
+
+---
 # 🧠 System Architecture
 
 The system consists of three main components:
